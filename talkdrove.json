@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'Gifted~'",
       "required": true,
-      "value": ""
+      "value": "Gifted~H4sIAAAAAAAAA5VUSY7jRhD8ilFXCRY3iZSABsxN3CRSW2tpYw5FskiVRLGoYpESNWjAHzAMwzdf5mrAv/IL5gkGe5megz1u32pJZEZGROZHkBNcIg81YPQRFBTXkKH2yJoCgRHQqiRBFHRBDBkEI4CDq7LhjQXVrxxkuFrjbfNQkys3R7543OBePvCCGTwn2/QOPHZBUYUZjr6R8ODx2tFOaXW01aMne+7tobivTrltOzw9DIMdURYrPZZzkbsDj21GiCnOU7PYoxOiMPNQM4OYvg/+fEa8qU83uZesT0deC22ylPVYzwSJDJkk49180fFE2bKm74OPuISwiXGhgZga13Siy/vzxDzvi0Wy7nX8G8MPBBtpTjn1GX6J0xzFToxyhlnzbt6R5mxDRbY2hequY0tvUtOu7U59EsV5GJ7tmxOWw46xXprv5N2vinJ+MJ1JJNSBiF3PGDZiPLFUTHczPRjq/sKXIrU3Xl2+Bj6jr145/h/eiR6tw51fOe7ZGGinxanIrGZ1Ma/nVJxtqWDO/bkurX1bIO+Dv/O2B0tcKoZEA39yURSP4rQMLek6hijRPMiL2rx3g2isvMGHrKLfQhn2gh08LQVBSRzHyhRHzQ0lWdyqTcijfTwzBmh6q47be8WrWSJZ82XUo6p8mfC3cEtWwQBNyGorJIF2v0zO086+slNNvXvq6IgaJwYj/rELKEpxyShkmOTtm8ApXQDjeokiitgTvSCVLhrNFogRpzFZqIY9UmP17A3yYKfEg4Myt+f3Ei7RxLwDXVBQEqGyRLGNS0ZoM0VlCVNUgtGPH7ogR1f2LFxbTuS7IMG0ZPd5VWQExq+qvn7CKCJVzpZNHuntAVEw4t6eEWM4T8uWxyqHNNrjGul7yEowSmBWoi8dIopiMGK0Ql+mVidxS7zoqqu+0ndBF5yeBMExGAFBlIa82B9wHMdLI4H/ofz+0uaFRfF9jhjoguwljh9ysigMB7yoyIM2sv3oghy22cCMkgSVJaHfff706x9//fTz50+//Pn502+/tzq8dNEWjRGDOCvBCOjO2eUYZ5iO3eyjqWWpZqrqqQreun61z7M8oeMO5XSyiwcXLnHXw+Wg4w23MJej/s2yJPqg9V1rNXcPRnr3D0nACFzi/Thv4sOsf5oS52xgq5riXD8PDv7SvXoyCuoxvrg6adLypvWWdGiOWaSaYziuTqTw67k1WHYE6T6elaV1FvoB04zLXVstRjWO0NfF3ORiZFpQqqXsJn3kdkK/46oYH6bZkFfSfCFrqLkYsTVTHGzXmr8Q+8s81ocxkzb+bS90Qint6AMp7bi+qU36G8HUX4z9NFjZy0LDT5Zr9WyvCUZP++FFl//W9xl560PusftVkpeV8y9jq20aPUGSLtio9O1mndxXNa7XQtERg+i6rzxhjpaLI6fvLhJ4fPzQBUUGWULoCYwAzGNKntxDSdUa28kT8o1iuuo4r61nsGTq27Cs8AmVDJ4KMOLlPi/wiiQJz1EzSgoblvuWBUtSTxV4/BuqoluZegcAAA=="
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -24,7 +24,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "254715206562"
+      "value": "2349135600014"
     },
     "ANTI_DELETE": {
       "description": "Put true/inboxonly/allchats/false",
